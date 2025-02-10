@@ -13,5 +13,5 @@ This code is under the MIT License; put simply, you can use this code however yo
 For more information, look at the LICENSE file.
 If you want to use this code, put this on top of the usage:
 
-MIT LICENSE 2025
+MIT LICENSE 2025&nbsp;
 Originally by awesomearjun/hex-dump on github
